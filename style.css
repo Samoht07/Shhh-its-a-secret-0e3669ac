@@ -1,0 +1,7 @@
+label,
+input {
+    display: table-cell;
+    margin-bottom: 10px;
+    width: 300px;
+    border-radius: 5px;
+}
